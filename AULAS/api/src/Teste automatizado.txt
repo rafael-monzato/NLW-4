@@ -1,0 +1,14 @@
+Teste automatizado
+
+
+1 - Teste Unitário
+
+2 - Teste de integração --> NLW
+
+-> request -> routes -> controller -> repository
+<- repository <- controller <- response
+
+3- Teste ponta a ponta [E2E]
+
+Usado no front-end detalha o que o user fez nas paginas (carregar dados, esperar carregar 
+entre outros)
